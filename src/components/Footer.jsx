@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="logo font-bold text-white text-2xl">
         <span className="text-green-500"> &lt;</span>
         Pass
-        <span className="text-green-500">OP&gt;</span>
+        <span className="text-green-500">LY&gt;</span>
       </div>
       <h3>Created by Ayush Badola</h3>
     </div>
